@@ -1,0 +1,32 @@
+.header-nav {
+    background-color: var(--main-color) !important;
+}
+
+.header-nav div {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.menu li:not(:last-child){
+    padding-right: 70px;
+}
+
+.menu li a {
+    color: #fff;
+}
+
+#navMenuBtn {
+    cursor: pointer;
+    color: #fff !important;
+}
+
+.header_logo {
+    width: 200px;
+}
+
+.contact-menu a {
+    background-color: #00fff2;
+    color: #121212 !important;
+    border-radius: 8px;
+    padding: 5px 18px !important;
+}

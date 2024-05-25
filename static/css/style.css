@@ -1,0 +1,26 @@
+:root {
+    --main-color: #443e87;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    background-color: var(--main-color);
+}
+
+footer div {
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+    font-size: 17px;
+}
+
+footer div a {
+    color: #f8dc20;
+}
